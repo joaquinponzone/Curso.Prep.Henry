@@ -1,0 +1,5 @@
+* `prototype`:
+Las clases pueden establecer métodos para luego dar acceso a otros objetos de esa clase y así ahorrarnos tener un mismo método repetido en diferentes objetos. 
+
+* _Constructors_ (de Clases):
+Los constructores son funciones que nos ayudan a crear objetos mas fácilmente. La función constructora, como plantilla o template, nos ayuda a crear muchos objetos que comparten algunas propiedades y métodos.

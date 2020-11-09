@@ -1,0 +1,46 @@
+body {
+    background-image: url(https://previews.123rf.com/images/ihorsw/ihorsw1707/ihorsw170700011/82258253-patr%C3%B3n-transparente-de-la-guinga-mantel-italiano-rojo-vector-de-tela-de-cuento-de-picnic-.jpg);
+
+}
+
+h1 {
+    color: darkolivegreen;
+    display: inline;
+    justify-content: center;
+    background-color: lightgrey;
+}
+
+
+
+
+img {
+    display: flex;
+    width: 400px;
+}
+
+span {
+    font-weight: 700;
+    padding: 50px;
+    margin: 50px;
+}
+a {
+    display: block;
+}
+
+#thirdDiv {
+    height: auto;
+    width: 500px;
+    background-color: darksalmon;
+    border: 2px solid red;
+    align-items: center;
+    margin: auto;
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.divClass {
+    text-align: center;
+}

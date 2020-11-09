@@ -1,0 +1,15 @@
+* Objetos:
+Los objetos son conjuntos de propiedades que se conforman por el nombre y el valor de la propiedad.
+
+* Propiedades
+Las propiedades nos sirven para representar o describir a los objetos.
+
+* Métodos
+Se le llama método a toda función dentro una propiedad de un objeto.
+
+* Bucle `for…in`
+Nos ayuda a recorrer todas las propiedades enumerabas de un objeto.
+
+
+* Notación de puntos vs notación de corchetes
+La notation de puntos es mas simple y rapido de escribir, pero a su vez es literal solo va a interpretar la propiedad dada en la notación. La notación de corchetes es mas elaborada su escritura pero sirve para acceder a propiedades con caracteres especiales, espacios, strings, variables, funciones.

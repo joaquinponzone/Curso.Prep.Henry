@@ -1,0 +1,7 @@
+* `for`:
+Crea un bucle que nos sirve para ejecutar varias veces el mismo código hasta llegar a la cantidad de repeticiones indicada.
+
+* `&&`, `||`, `!`:
+Los operadores lógicos son expresiones que siempre devolverán un valor booleano. `&&` y `||` nos regresaran un valor booleano de los dos valores dados. 
+En las expresiones con `&&` se evaluara como true solo si ambos valores son true, en cambio las expresiones `||` devolverán true siempre que alguno de los valores dados sea true.
+`!` representa el valor booleano opuesto a la variable expresada.

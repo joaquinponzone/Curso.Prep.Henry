@@ -1,0 +1,15 @@
+	* Variables: 
+    Declaracion de un valor determinado para luego acceder al mismo.
+
+	* Strings: 
+    Cadena de caracteres dentro de comillas.
+
+	* Funciones (argumentos, `return`):
+    Las funciones son instrucciones de un procedimiento guardado para ejecutar cuando sea necesario y asi evitar instrucciones repetitivas.
+
+
+	* Declaraciones `if`:
+    En una declarion if, se ejecutara un comando dado en caso de evaluar como true una condicion especificada.
+
+	* Valores booleanos (`true`, `false`):
+    Son valores de logica binaria, es decir, solo pueden tomar dos valores. (true y false).

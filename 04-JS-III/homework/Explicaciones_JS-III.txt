@@ -1,0 +1,3 @@
+* Arrays:
+	
+Los Arreglos son listas de elementos a los que podremos listar y despues acceder a esos elementos segun su posicion en la lista.
